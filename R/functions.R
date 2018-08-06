@@ -1,5 +1,5 @@
 
-#'@import data.table
+#' @import data.table
 
 #' @name addition
 #' @title outputs the sum of two arguments
@@ -10,6 +10,7 @@
 #'
 #' @param arg1 numeric first argument
 #' @param arg2 numeric second argument
+#' @importFrom data.table data.table
 #' @return numeric Sum 
 #' @export
 addition = function(arg1, arg2){
