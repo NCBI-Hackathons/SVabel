@@ -1,2 +1,2 @@
 # SuperSnV
-Intersecting RNAseq, Epigenomics, and Variants!
+intersecting RNAseq, Epigenomics, and Variants!
