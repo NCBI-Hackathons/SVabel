@@ -1,4 +1,5 @@
 
+#'@import data.table
 
 #' @name addition
 #' @title outputs the sum of two arguments
@@ -20,3 +21,5 @@ addition = function(arg1, arg2){
     }
     return(arg1+arg2)
 }
+
+
