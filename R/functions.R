@@ -13,6 +13,8 @@
 #' @return numeric Sum 
 #' @export
 addition = function(arg1, arg2){
+
+    dt = data.table()
     if(!is(arg1, 'numeric')){
     	stop("arg1 is not numeric")
     }
