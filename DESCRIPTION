@@ -1,12 +1,13 @@
 Package: supersnv
-Title: What the Package Does (one line, title case)
+Title: annotate SV
 Version: 0.0.0.9000
 Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Description: why doesn't this work
 biocViews:
-Depends: 
-    R (>= 3.5.0),
-    data.table (>= 1.11)
+Depends:
+    R (>= 3.1.0),
+    GenomicRanges (>= 1.30),
+    data.table (>= 1.10)
 License: MIT
 Encoding: UTF-8
 LazyData: true
