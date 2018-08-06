@@ -8,6 +8,9 @@ Depends:
     R (>= 3.1.0),
     GenomicRanges (>= 1.30),
     data.table (>= 1.10)
+Suggests:
+    testthat,
+    rtracklayer
 License: MIT
 Encoding: UTF-8
 LazyData: true
