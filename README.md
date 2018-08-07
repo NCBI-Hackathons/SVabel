@@ -19,9 +19,6 @@ The package relies on `data.table` and Bioconductor dependencies.
 
 
 ## Usage
-```
-
-```
 
 List of helper functions:-    
 * `gtfValidator` check Annotation version and check genome build (currently supports hg19 and hg38)
