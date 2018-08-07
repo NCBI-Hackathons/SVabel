@@ -2,14 +2,14 @@
 [![codecov.io](https://img.shields.io/codecov/c/github/NCBI-Hackathons/SuperSnV.svg)](https://img.shields.io/codecov/c/github/NCBI-Hackathons/SuperSnV?branch=master)
 
 
-# SuperSnV
+# SVabel
 
 This package contains helper functions to annotate structural variants (SVs) and single nucleotide variants (SNVs) from either a VCF-format or BEDPE-format file.
 
 ## Installation
 
 ```
-devtools::install_github('NCBI-Hackathons/supersnv')
+devtools::install_github('NCBI-Hackathons/SVabel')
 ```
 
 ## Dependencies 
