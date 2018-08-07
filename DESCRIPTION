@@ -2,15 +2,24 @@ Package: supersnv
 Title: annotate SV
 Version: 0.0.0.9000
 Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: why doesn't this work
+Description: annotate SV
 biocViews: 
 Depends:
     R (>= 3.1.0),
     GenomicRanges (>= 1.30),
     data.table (>= 1.10)
+Imports:
+    IRanges (>= 2.12),
+    S4Vectors (>= 0.4),
+    GenomeInfoDb (>= 1.13),
+    parallel,
+    BiocGenerics(>= 0.24),
+    methods,
+    Matrix,
+    stringr
 Suggests:
-    rtracklayer,
-    testthat
+    testthat,
+    rtracklayer
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
