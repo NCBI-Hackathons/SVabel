@@ -2,6 +2,8 @@
 
 # first try
 
+#' @import data.table
+
 #' @name addition
 #' @title outputs the sum of two arguments
 #' @description
