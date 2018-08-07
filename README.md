@@ -4,6 +4,8 @@
 
 # SVabel
 
+## what does this do.  
+
 This package contains helper functions to annotate structural variants (SVs) and single nucleotide variants (SNVs) from either a VCF-format or BEDPE-format file.
 
 ## Installation
@@ -19,6 +21,10 @@ The package relies on `data.table` and Bioconductor dependencies.
 
 
 ## Usage
+
+### Inputs
+
+### Outputs
 
 List of helper functions:-    
 * `gtfValidator` check Annotation version and check genome build (currently supports hg19 and hg38)
