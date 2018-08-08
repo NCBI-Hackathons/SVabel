@@ -1,8 +1,10 @@
 [![Build Status](https://travis-ci.org/NCBI-Hackathons/SuperSnV.svg?branch=master)](https://travis-ci.org/NCBI-Hackathons/SuperSnV)
 [![codecov.io](https://img.shields.io/codecov/c/github/NCBI-Hackathons/SuperSnV.svg)](https://img.shields.io/codecov/c/github/NCBI-Hackathons/SuperSnV?branch=master)
 
-SVabel
----------
+<p align="center">
+ <img src="svabel.png">
+</p>
+
 This package contains helper functions to annotate structural variants (SV) and single nucleotide variants (SNV) from a VCF-format or BEDPE-format file.
 
 ## Installation
