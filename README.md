@@ -37,6 +37,7 @@ A function that prints the output of the variant annotation in BEDPE or VCF form
 
 ### Contributors
 * Evan Biederstedt
+* Peng Zhang
 * Kundai Andrew Midzi
 * Tze Yin Lim
 * Naina Thangaraj
