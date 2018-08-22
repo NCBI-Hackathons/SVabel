@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/NCBI-Hackathons/SuperSnV.svg?branch=master)](https://travis-ci.org/NCBI-Hackathons/SVabel)
+[![Build Status](https://travis-ci.org/NCBI-Hackathons/SVabel.svg?branch=master)](https://travis-ci.org/NCBI-Hackathons/SVabel)
 [![codecov.io](https://img.shields.io/codecov/c/github/NCBI-Hackathons/SVabel.svg)](https://img.shields.io/codecov/c/github/NCBI-Hackathons/SVabel?branch=master)
 
 <p align="center">
