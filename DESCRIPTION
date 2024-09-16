@@ -9,14 +9,15 @@ Depends:
     GenomicRanges (>= 1.30),
     data.table (>= 1.10)
 Imports:
-    IRanges (>= 2.12),
-    S4Vectors (>= 0.4),
-    GenomeInfoDb (>= 1.13),
-    parallel,
     BiocGenerics(>= 0.24),
-    methods,
+    GenomeInfoDb (>= 1.13),
+    IRanges (>= 2.12),
     Matrix,
-    stringr
+    S4Vectors (>= 0.4),
+    methods,
+    optparse,
+    parallel,
+    stringr,
 Suggests:
     testthat,
     rtracklayer
